@@ -1,3 +1,3 @@
-// --- file2.js
+// --- File2.js
 // ---
 console.log("Hello from file2.js")
