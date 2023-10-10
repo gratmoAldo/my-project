@@ -1,5 +1,6 @@
 // --- File1.js
 // --- 
-// --- Implemented feature 2 in file 1
-// --- 
-console.log("Hello, this is a conflict")
+// --- Implimented feature 1 & 2 here in file1 ---
+// ---
+// ---
+console.log("Hello from file1.js")
